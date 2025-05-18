@@ -14,7 +14,7 @@
 }
 
 html, body {
-    min-height: 100vh;
+    height: 100vh;
     background-color: darkgray;
     font-family: var(--fonte1);
     font-size: 1em;
@@ -44,8 +44,8 @@ a:hover {
 }
 
 section {
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
